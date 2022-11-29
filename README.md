@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" /></a>&nbsp
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongdonggyeom)](https://solved.ac/jeongdonggyeom)
