@@ -23,7 +23,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongdonggyeom)](https://solved.ac/jeongdonggyeom)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongdonggyeom&show_icons=true&theme=radical)
-
-<a href=#><img src="contributions.svg"></a>
-
-
